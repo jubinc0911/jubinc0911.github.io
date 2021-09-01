@@ -14,7 +14,7 @@ labels:
 
 ## My First Glance of JavaScript
 
-I started to learn the coding in my junior at high school. Ever since then, I used various kinds of programming language, such as Java, Python, C, and C++. Definitely, I knew that there is a programming language called “JavaScript”. However, I didn’t get any interest of it until I actually used it about a week ago because for me, it sounded like a downgraded version of Java and it’s the language that only use for designing websites. However, after I learn about it, I can tell that the JavaScript has its own characteristics and advantages that other programming languages I used before don’t have. 
+I started to learn the coding in my junior at high school. Ever since then, I used various kinds of programming language, such as Java, Python, C, and C++. Definitely, Since then, I knew that there is a programming language called “JavaScript”. However, I didn’t get any interest of it until I actually used it about a week ago because for me, it sounded like a downgraded version of Java and it’s the language that only use for designing websites. However, after I learn about it, I can tell that the JavaScript has its own characteristics and advantages that other programming languages I used before don’t have. 
 
 ## Meet a Nice Friend
 
