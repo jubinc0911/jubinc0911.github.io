@@ -10,7 +10,7 @@ labels:
   - Interest
 ---
 
-<img class="ui medium left floated image" src="../images/cs.png">
+<img class="../images/cs.png">
 
 ## What led me to computer science?
 
