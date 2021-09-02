@@ -10,7 +10,7 @@ labels:
   - Interest
 ---
 
-<img src="../images/cs.png">
+<img class="ui large floated image" src="../images/cs.png">
 
 ## What led me to computer science?
 
@@ -19,6 +19,7 @@ Since young, I like to solve math problems, especially about logic puzzles. Howe
 ## Artificial Intelligence stole my interest!
 
 After I got interested about computer science and programming, I did some research about branches in computer science. Among various kinds of it, there was a standout skill that make me possessed, which is artificial intelligence. There is a technology that takes my all interests about computer science, which is Autonomous Driving. Although it’s not completed technology yet, it fascinated me and make me to learn about artificial intelligence in the future.
+
 <img class="ui medium right floated image" src="../images/AI.png">
 
 ## Dreaming about the future
