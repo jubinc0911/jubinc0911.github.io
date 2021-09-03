@@ -13,7 +13,7 @@ labels:
 summary: A banking system module that read and store information using C/C++.
 ---
 
-<img class="ui large floated image" src="../images/banking-system.jpg">
+<img class="ui image" src="../images/banking-system.jpg">
 
 The Banking System is a project that I made in ICS 212 at University of Hawaii in Manoa in 2020 Fall semester. It has five different functions: add, printall, find, delete, and quit. First of all, add is literally add the information about the user, such as name, address, and account number. And printall prints all the information that is stored in the system, and user can find their information by put account number in find function. Also, user can delete their information using delete function. Moreover, before the system is closed, it stores every information in the system and make a record so that it keeps the information. 
 
