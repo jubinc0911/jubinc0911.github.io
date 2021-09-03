@@ -13,7 +13,7 @@ labels:
 summary: A maze game that my team designed and developed in Kalani High School computer science class in 2018.
 ---
 
-<img class="ui right floated image" src="../images/trap-maze-square.jpg">
+<img class="ui large right floated image" src="../images/trap-maze-square.jpg">
 
 The Trap Maze is the game that my partner and I created for the final project at Kalani high school computer science course in 2018. For the final project, each student made teams, and they design and develop a game. For my team, we created a Trap Maze, which the user controls a man by using arrow keys in the keyboard to get a treasure in the middle of the maze. Also, when the player hits the traps, certain actions are happened. At the same time, the player needs to find hunter who owns a key to open the treasure box. So, to open the box and win the game, the player needs to bring the hunter as well. In the maze, the wall is made of spikes, so when the player hits the wall, the game is over. 
 
