@@ -12,7 +12,7 @@ labels:
 summary: A blood cell stream game that developed in Kalani HS in 2018.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/blood-cell-stream.PNG">
+<img class="ui image" src="/images/blood-cell-stream.PNG">
 
 The Blood Cell Stream is a simple game that developed using Java on Greenfoot in Kalani high school computer science class in 2018. In the game, the user can control a white cell using up and down arrow key on the keyboard. With the white cell, user avoids virus and eats the bacteria. Every time the white cell eats the bacteria, user gains 100 points with beep sound and loses 25 points when bacteria hits red cell. In this game. The virus is too strong so that the game is over when the white virus hits the white cell, or user with game-over sound. 
 
