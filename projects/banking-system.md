@@ -21,5 +21,5 @@ The Banking System is a project that I made in ICS 212 at University of Hawaii i
 In the mid-semester, it is first designed and developed using C language. Then, at the end of semester, the last project was to convert the banking system that is written in C to C++. By doing this project, I could learn about the differences and similarities between C and C++. Also, the project is written in Unix system, so I could learn some features of Unix. Furthermore, the debugging and testing the code is also a part of the project. So, I could learn how the testing is made and designed. 
 
 
-Source code is available at: <a href="https://github.com/jubinc0911/banking_system"><i class="large github icon "></i>jubinc0911/banking_systeme</a>
+Source code is available at: <a href="https://github.com/jubinc0911/banking_system"><i class="large github icon "></i>jubinc0911/banking_system</a>
 
