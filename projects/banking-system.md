@@ -5,7 +5,7 @@ image: images/bank-square.jpg
 title: Banking System
 permalink: projects/banking-system
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-27
+date: 2020-10-26
 labels:
   - C
   - C++
