@@ -18,7 +18,7 @@ labels:
 When people get stuck on their problems, it is common to ask for help. One way to ask for help is post the questions on the internet website to ask questions to people all around the world. Especially, in computer science, it happens very frequently. One example of the website is Stack Overflow, which is very well-known and popular website for developers all around the world, and they ask and answer various questions about computer science. However, not all the questions receive the expected response. It’s not because the problems are too hard and difficult so no one can answer them. However, it’s because the way that people ask the question are wrong. In other words, people who ask a “Bad Question”  do not likely get the good response. So, it is important to ask in a “Smart Way.” In a article How To Ask Questions The Smart Way by Eric Steven Raymond gives very well organized guideline for asking smart. 
 
 
-## Smart Question
+## "Smart" Question
 
 <img class="ui large centered image" src="../images/good-question.PNG">
 
@@ -28,7 +28,7 @@ From Stack Overflow, [one example of smart question](https://stackoverflow.com/q
 
 
 
-## Non-Smart, or Bad, Question
+## "Non-Smart" or Even "Bad" Question
 
 <img class="ui large centered image" src="../images/bad-question.PNG">
 
