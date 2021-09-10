@@ -20,16 +20,14 @@ When people get stuck on their problems, it is common to ask for help. One way t
 
 ## Smart Question
 
-<img class="ui right floated image" src="../images/good-question.PNG">
-
-
+<img class="ui medium floated image" src="../images/good-question.PNG">
 
 From Stack Overflow, [one example of smart question](https://stackoverflow.com/questions/14220321/how-to-return-the-response-from-an-asynchronous-call) is shown above. The person asks a question about returning response from an asynchronous function call. He or she clearly states what is the problem and what he wants to get. He even provides a simple example code so that people can easily understand and solve the question with the sample. As the result, the question received a lot of up-votes, which indicates for useful question, and people posted very well-explained answers as well. 
 
 
 ## Non-Smart, or Bad, Question
 
-<img class="ui left floated image" src="../images/bad-question.PNG">
+<img class="ui medium left floated image" src="../images/bad-question.PNG">
 
 On the other hand, the second image shows the [non-smart question, or bad question](https://stackoverflow.com/questions/49214481/node-js-is-not-working). This person asks about his or her code that is not working as expected with the images of the code. However, those are the everything that the person posted. He or she does not give any hints or explanation about the code. Also, he or she puts his or her code with image files (not even a copy-paste). As the result, of course, the post does not receive appropriate answers.
 
