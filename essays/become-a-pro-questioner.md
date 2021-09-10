@@ -20,7 +20,7 @@ When people get stuck on their problems, it is common to ask for help. One way t
 
 ## Smart Question
 
-<img class="ui small right floated image" src="../images/good-question.PNG">
+<img class="ui medium right floated image" src="../images/good-question.PNG">
 
 
 
@@ -28,7 +28,7 @@ From Stack Overflow, [one example of smart question] (https://stackoverflow.com/
 
 ## Non-Smart, or Bad, Question
 
-<img class="ui small left floated image" src="../images/bad-question.PNG">
+<img class="ui medium left floated image" src="../images/bad-question.PNG">
 
 On the other hand, the second image shows the [non-smart question, or bad question] (https://stackoverflow.com/questions/49214481/node-js-is-not-working). This person asks about his or her code that is not working as expected with the images of the code. However, those are the everything that the person posted. He or she does not give any hints or explanation about the code. Also, he or she puts his or her code with image files (not even a copy-paste). As the result, of course, the post does not receive appropriate answers.
 
