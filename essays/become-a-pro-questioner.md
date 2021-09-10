@@ -25,6 +25,13 @@ When people get stuck on their problems, it is common to ask for help. One way t
 From Stack Overflow, [one example of smart question](https://stackoverflow.com/questions/14220321/how-to-return-the-response-from-an-asynchronous-call) is shown above. The person asks a question about returning response from an asynchronous function call. He or she clearly states what is the problem and what he wants to get. He even provides a simple example code so that people can easily understand and solve the question with the sample. As the result, the question received a lot of up-votes, which indicates for useful question, and people posted very well-explained answers as well. 
 
 
+
+
+
+
+
+
+
 ## Non-Smart, or Bad, Question
 
 <img class="ui medium left floated image" src="../images/bad-question.PNG">
