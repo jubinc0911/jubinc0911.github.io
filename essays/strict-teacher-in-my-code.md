@@ -29,6 +29,6 @@ Implementing coding standard improves our coding skills and qualities. Although 
 
 ## Having a Legible Handwriting
 
-<img class="ui medium left image" src="../images/coding-communication.jpg">
+<img class="ui medium left floated image" src="../images/coding-communication.jpg">
 
 Implementing coding standard does not only improve the quality of codes, but also it improves the communication skills. When we take a look at someone else’s codes, it is often hard to understand what they wrote at a glance. That’s not because their codes have some problem, but because each person writes code differently as like handwriting.  For example, having an illegible handwriting for personal notes does not matter since no one else will look the notes. However, when we show our notes to someone else, having legible handwriting is very important. Similarly, in an individual project, implementing coding standard does not really matter. However, when people do some group projects, we must have a legible codes so that other people can easily understand. Implementing and following a coding standard might be very tedious and annoying. However, it will definitely improve the quality of the code and even communication skills. 
