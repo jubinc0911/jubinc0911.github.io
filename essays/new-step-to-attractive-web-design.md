@@ -29,7 +29,7 @@ To use UI Framework, we need to study about different features and rules. Also, 
 
 After a one week of experience with Semantic UI, I feel more confident with designing a website. I’m not an artistic person and really bad at designing things. However, with the Semantic UI, I could make a good enough web page. 
 
-<img class="ui large left floated image" src="../images/browsehistory-without-UI.PNG">
-<img class="ui large right floated image" src="../images/browsehistory-with-UI.PNG">
+<img class="ui large left image" src="../images/browsehistory-without-UI.PNG">
+<img class="ui large right image" src="../images/browsehistory-with-UI.PNG">
   
 The first picture is screenshot from my web project without using Semantic UI and the second one is with the Semantic UI. As we can see, although the contents are the same, the website with Semantic UI can make more attractive web page. Of course, it’s just a very basic step of UI Framework. However, with such UI Framework, I will be able to do more and more functions, and it is definitely a worth investment to improve my quality of web design.
