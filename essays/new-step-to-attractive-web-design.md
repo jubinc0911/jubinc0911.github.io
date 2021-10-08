@@ -31,5 +31,6 @@ After a one week of experience with Semantic UI, I feel more confident with desi
 
 <img class="ui large left image" src="../images/browsehistory-without-UI.PNG">
 <img class="ui large right image" src="../images/browsehistory-with-UI.PNG">
-  
+ 
 The first picture is screenshot from my web project without using Semantic UI and the second one is with the Semantic UI. As we can see, although the contents are the same, the website with Semantic UI can make more attractive web page. Of course, it’s just a very basic step of UI Framework. However, with such UI Framework, I will be able to do more and more functions, and it is definitely a worth investment to improve my quality of web design.
+<br>
