@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-<img class="ui large left floated image" src="../images/guidebook.png">
+<img class="ui medium left floated image" src="../images/guidebook.png">
 
 ## Look up a Guidebook
 
