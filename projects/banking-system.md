@@ -25,6 +25,7 @@ In the mid-semester, it is first designed and developed using C language. Then, 
 
 ## Snippet from Code
 
+```js
 while (quit == -1)
     {
         cout << "\n***********************  ICS 212 Banking System  ***********************\n";
@@ -40,7 +41,7 @@ while (quit == -1)
         validChoice = -1;
     
         cin.getline(userInput, 20, '\n');
-
+```
 
 Source code is available at: <a href="https://github.com/jubinc0911/banking_system"><i class="large github icon "></i>jubinc0911/banking_system</a>
 
