@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: false
 image: images/bloodcell-square.jpg
 title: Blood Cell Stream
 permalink: projects/blood-cell-stream
