@@ -12,7 +12,7 @@ labels:
   - Agile Project Management
 ---
 
-<img class="ui large floated image" src="../images/journey.jpeg">
+<img class="ui large centered image" src="../images/journey.jpeg">
 
 ## A Journey called Software Engineering
 
