@@ -53,6 +53,10 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML/CSS",
+        "Meteor",
+        "React",
+        "Semantic UI"
       ]
     },
     {
@@ -83,7 +87,7 @@
       "position": "Server/Busser",
       "website": "",
       "startDate": "2021-05-28",
-      "endDate": "Present",
+      "endDate": "2021-10-30",
       "summary": "Working as a server at a Chibaken",
       "highlights": [
         
