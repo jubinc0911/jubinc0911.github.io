@@ -25,7 +25,7 @@ In the mid-semester, it is first designed and developed using C language. Then, 
 
 ## Snippet from Code
 
-```js
+```c++
 while (quit == -1)
     {
         cout << "\n***********************  ICS 212 Banking System  ***********************\n";
