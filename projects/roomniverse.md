@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/roomniverse-logo.png
+image: images/roomniverse-square.png
 title: Roomniverse
 permalink: projects/roomniverse
 # All dates must be YYYY-MM-DD format!
