@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: My Stolen Interest
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
