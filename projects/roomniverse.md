@@ -21,7 +21,7 @@ The Roomniverse is a web application that developed in Fall 2021 semester in ICS
 
 ## What I contributed to Roomniverse
 
-The Roomniverse is a team project with five group members: Ju-Bin Choi(me), HyunJun Song, Scott Vore, Tracy Bui, and Jonathan Valencia. I was mainly responsible for the Find Roommate page which lists up the users’ requests when they create the requests. I created the lists of requests using open-source programs such as MongoDB, Semantic UI React, Meteor, etc. Also, I created the Add Request and Edit Request pages so that each user can manage his or her request easily. In the Add Request and Edit Request pages, the system automatically brings up the current user’s information, and thus, the user doesn’t need to provide every single information when he or she create the request. 
+The Roomniverse is a team project with five group members: [Ju-Bin Choi](https://jubinc0911.github.io/) (me), [HyunJun Song](https://eric-song1773.github.io/), [Scott Vore](https://syhv-git.github.io/), [Tracy Bui](https://tbui00.github.io/), and [Jonathan Valencia](https://jon-valencia.github.io/). I was mainly responsible for the Find Roommate page which lists up the users’ requests when they create the requests. I created the lists of requests using open-source programs such as MongoDB, Semantic UI React, Meteor, etc. Also, I created the Add Request and Edit Request pages so that each user can manage his or her request easily. In the Add Request and Edit Request pages, the system automatically brings up the current user’s information, and thus, the user doesn’t need to provide every single information when he or she create the request. 
 
 <img class="ui image" src="../images/find-roommate.PNG">
 <img class="ui image" src="../images/addrequest.PNG">
